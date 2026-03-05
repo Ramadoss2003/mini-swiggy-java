@@ -2,6 +2,7 @@ import java.util.*;
 class Food
 {
 	static Scanner sc=new Scanner(System.in);
+	//godclass
 	public static void main(String[] args)
 	{
 		System.out.print("***Welcome to Swiggy****");
